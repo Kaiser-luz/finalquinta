@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\MainForm1.cs\MainForm1.cs\obj\Debug\MainForm1.cs.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\MainForm1.cs\MainForm1.cs\obj\Debug\MainForm1.cs.Properties.Resources.resources
+C:\Users\gabri\source\repos\MainForm1.cs\MainForm1.cs\obj\Debug\MainForm1.cs.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\MainForm1.cs\MainForm1.cs\obj\Debug\MainForm1.cs.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\MainForm1.cs\MainForm1.cs\bin\Debug\MainForm1.cs.exe.config
+C:\Users\gabri\source\repos\MainForm1.cs\MainForm1.cs\bin\Debug\MainForm1.cs.exe
+C:\Users\gabri\source\repos\MainForm1.cs\MainForm1.cs\bin\Debug\MainForm1.cs.pdb
+C:\Users\gabri\source\repos\MainForm1.cs\MainForm1.cs\obj\Debug\MainForm1.cs.exe
+C:\Users\gabri\source\repos\MainForm1.cs\MainForm1.cs\obj\Debug\MainForm1.cs.pdb
+C:\Users\gabri\source\repos\MainForm1.cs\MainForm1.cs\obj\Debug\MainForm1.cs.exe.config
